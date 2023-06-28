@@ -14,7 +14,5 @@ dlib人脸68点特征点检测模型官网下载地址：http://dlib.net/files/s
 此外，美颜相机还支持摄像头拍照功能，这提供了便捷的方式来捕捉美丽的瞬间，为后面的美颜操作提供便利。同时，美颜相机提供了图片缩放、撤销还原等实用功能，使用户能够调整图像的大小和恢复到之前的状态。核心功能如图所示。
 ![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/7b51cb06-4402-4fe2-8f02-d061b80a1de7)
 
-![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/3e6f8de0-596d-40e4-af20-7c8f9bd5e41d)
-
 ![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/7818dff5-56f3-4d23-bf7f-94abc38433fc)
 
