@@ -1,5 +1,6 @@
 # BeautyCamera
 # 基于PYQT5和图像处理算法的智能美颜相机
+dlib人脸68点特征点检测模型官网下载地址：http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 本文基于PYQT5和图像处理算法，实现滤镜、增强、美颜、涂鸦、贴纸、文字和马赛克等丰富功能。
 具体功能如下：
 1)	首先利用人脸识别模型检测输入图像中的人脸位置。借助dlib人脸关键特征点，应用程序能够准确地定位人脸的关键部位，如眼睛、嘴巴等。
@@ -11,6 +12,9 @@
 7)	文字功能允许用户在图像上添加自定义文本。他们可以添加标题、标签、注释或个性化的文字消息，以传达特定的信息或增强照片的表达力。
 8)	马赛克功能可以用于模糊图像。用户可以选择马赛克效果来隐藏敏感信息或保护隐私。 
 此外，美颜相机还支持摄像头拍照功能，这提供了便捷的方式来捕捉美丽的瞬间，为后面的美颜操作提供便利。同时，美颜相机提供了图片缩放、撤销还原等实用功能，使用户能够调整图像的大小和恢复到之前的状态。核心功能如图所示。
- ![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/7b51cb06-4402-4fe2-8f02-d061b80a1de7)
+![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/7b51cb06-4402-4fe2-8f02-d061b80a1de7)
 
 ![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/3e6f8de0-596d-40e4-af20-7c8f9bd5e41d)
+
+![image](https://github.com/Jinzhong-Duan/BeautyCamera/assets/105783906/7818dff5-56f3-4d23-bf7f-94abc38433fc)
+
