@@ -56,8 +56,6 @@ QT Designer 是一个可视化的界面设计工具，能够以图形化方式�
 
 人脸关键点定位技术是对人脸中眉毛、眼睛、鼻子、嘴巴以及脸部的轮廓进行定位。包括基于特征点检测（支持向量机、随机森林）、基于模型拟合（ASM-主动形状模型、AAM-主动外观模型）和基于深度学习的方法等等。目前最通用的方案是68点标注，即opencv中的Dlib库所采用的方案，它将人脸关键点分为内部关键点和轮廓关键点，内部关键点包含51个关键点，轮廓关键点包含17个关键点，如图所示。
 
-<img width="272" alt="4" src="https://github.com/user-attachments/assets/766b2713-5c24-4f0a-bd7f-7441e8feb5ce">
-
 <img width="583" alt="5" src="https://github.com/user-attachments/assets/c1c2ce77-ddae-45a2-a681-e3b3efd0adb7">
 
 注：dlib人脸68点特征点检测模型官网下载地址：http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
