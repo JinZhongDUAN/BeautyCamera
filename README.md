@@ -17,7 +17,7 @@
 
 此外，美颜相机还支持摄像头拍照功能，这提供了便捷的方式来捕捉美丽的瞬间，为后面的美颜操作提供便利。同时，美颜相机提供了图片缩放、撤销还原等实用功能，使用户能够调整图像的大小和恢复到之前的状态。核心功能如图所示。
 
-![1](E:\33397\Desktop\1.png)
+<img width="880" alt="1" src="https://github.com/user-attachments/assets/243e7dfa-b935-453b-9ad5-ad073353f06f">
 
 ## 3、环境
 
@@ -48,30 +48,28 @@ qt5-tools           5.15.2.1.3
 
 QT Designer 是一个可视化的界面设计工具，能够以图形化方式创建和编辑QT应用程序的用户界面。通过使用QT Designer，我们可以以可视化的方式设计和编辑界面，减少了手动编写界面代码的工作量，并提供了一个直观和易于使用的界面设计体验。因此，在美颜相机的开发中我们采用了QT Designer进行界面的设计与美化。QT Designer设计界面和最终的效果图如图所示。
 
-![2](E:\33397\Desktop\2.png)
+<img width="1001" alt="2" src="https://github.com/user-attachments/assets/9fef92d2-0501-4d30-93cc-ac01da9c9c12">
 
-![3](E:\33397\Desktop\3.png)
+<img width="723" alt="3" src="https://github.com/user-attachments/assets/428a203a-5dca-4dbc-abd0-7fba16a490ce">
 
 ## 5、Dlib人脸关键特征点检测
 
 人脸关键点定位技术是对人脸中眉毛、眼睛、鼻子、嘴巴以及脸部的轮廓进行定位。包括基于特征点检测（支持向量机、随机森林）、基于模型拟合（ASM-主动形状模型、AAM-主动外观模型）和基于深度学习的方法等等。目前最通用的方案是68点标注，即opencv中的Dlib库所采用的方案，它将人脸关键点分为内部关键点和轮廓关键点，内部关键点包含51个关键点，轮廓关键点包含17个关键点，如图所示。
 
-![4](E:\33397\Desktop\4.png)
+<img width="272" alt="4" src="https://github.com/user-attachments/assets/766b2713-5c24-4f0a-bd7f-7441e8feb5ce">
 
-![5](E:\33397\Desktop\5.png)
+<img width="583" alt="5" src="https://github.com/user-attachments/assets/c1c2ce77-ddae-45a2-a681-e3b3efd0adb7">
 
 注：dlib人脸68点特征点检测模型官网下载地址：http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 ## 6、例图
 
-![6](E:\33397\Desktop\6.png)
+<img width="472" alt="6" src="https://github.com/user-attachments/assets/712fdf22-38aa-4566-8346-5ae710bd46b5">
 
-![7](E:\33397\Desktop\7.png)
+<img width="474" alt="7" src="https://github.com/user-attachments/assets/2eaca40f-cc65-481d-809d-b2f36e1325e8">
 
-![7](E:\33397\Desktop\7.png)
+<img width="470" alt="8" src="https://github.com/user-attachments/assets/e3686578-4f47-4f64-8ad8-69760d602257">
 
-![8](E:\33397\Desktop\8.png)
+<img width="472" alt="9" src="https://github.com/user-attachments/assets/3e618151-4088-4268-ac77-a47403fbb6b9">
 
-![9](E:\33397\Desktop\9.png)
-
-![10](E:\33397\Desktop\10.png)
+<img width="475" alt="10" src="https://github.com/user-attachments/assets/0ae1a08e-12ac-4ee8-88cb-ebafa6ccc39b">
